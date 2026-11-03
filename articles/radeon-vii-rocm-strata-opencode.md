@@ -3,7 +3,7 @@ title: "Radeon VIIとUbuntu 26.04でROCmを動かし、Flash-NextをOpenCodeに�
 emoji: "🟥"
 type: "tech"
 topics: [rocm, radeon, localllm, opencode, ubuntu]
-published: false
+published: true
 ---
 
 5年ほど前に組んだデスクトップがある。当時、GPUにはすでに型落ちだったRadeon VIIを5万円くらいで入手して載せた。Stable Diffusionで遊んでいた時期もあったが、飽きてからはすっかり出番がなくなっていた。
@@ -266,4 +266,4 @@ Radeon VIIの16GB VRAMだけにモデル全体を載せるのではなく、GPU�
 
 ## この記事について
 
-実はこの記事も、実際に環境を構築したChatGPTのセッションで書いた。会話の中で調べたこと、実行したコマンド、ログに残った測定結果をもとにChatGPTが下書きした。OpenCodeではファイル読み取りツールの呼び出しまで確認したが、複雑なコード修正の成功率はまだ測っていない。これから、この環境でどこまでできるか試していきたいと思う。
+実はこの記事も、実際に環境を構築したChatGPTのセッションで書いた。会話の中で調べたこと、実行したコマンド、ログに残った測定結果をもとにChatGPTが下書きした。OpenCodeではファイル読み取りツールの呼び出しまで確認したが、複雑なコード修正の成功率はまだ測っていない。これから、この環境でどこまでできるか試していきたい。
